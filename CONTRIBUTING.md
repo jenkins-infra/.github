@@ -14,3 +14,7 @@ See the Contributing guidelines [on jenkins.io](https://jenkins.io/projects/infr
 * Mailing list: [infra@lists.jenkins-ci.org](http://lists.jenkins-ci.org/mailman/listinfo/jenkins-infra)
 * IRC: [#jenkins-infra on Freenode](https://jenkins.io/chat/#jenkins-infra)
 * Bugtracker: `INFRA` project in the [Jenkins bugtracker](https://issues.jenkins-ci.org/projects/INFRA)
+
+## Newcomers
+
+If you are a newcomer contributor and have any questions, please do not hesitate to ask in the `#jenkins-infra` IR channel or in the [Newcomers Gitter channel](https://gitter.im/jenkinsci/newcomer-contributors).
