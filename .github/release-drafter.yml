@@ -91,6 +91,9 @@ replacers:
     replace: '@dependabot'
 
 autolabeler:
+  - label: 'dependencies'
+    title:
+      - '/chore(deps)/i'
   - label: 'documentation'
     branch:
       - '/docs{0,1}\/.+/'
