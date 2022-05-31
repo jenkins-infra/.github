@@ -8,6 +8,6 @@ Contributions are welcome and much appreciated, see the [contributing guidelines
 
 ## Support Contacts
 
-* Mailing list: [infra@lists.jenkins-ci.org](http://lists.jenkins-ci.org/mailman/listinfo/jenkins-infra)
-* IRC: [#jenkins-infra on Freenode](https://jenkins.io/chat/#jenkins-infra)
-* Bugtracker: `INFRA` project in the [Jenkins bugtracker](https://issues.jenkins-ci.org/projects/INFRA)
+* Mailing list: [jenkins-infra@googlegroups.com](https://groups.google.com/g/jenkins-infra)
+* IRC: [#jenkins-infra on Libera chat](https://jenkins.io/chat/#jenkins-infra)
+* Bugtracker: [Jenkins Infrastructure Help Desk](https://github.com/jenkins-infra/helpdesk)
