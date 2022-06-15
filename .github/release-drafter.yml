@@ -24,10 +24,11 @@ version-resolver:
 # Emoji reference: https://gitmoji.carloscuesta.me/
 categories:
   - title: ":boom: Breaking changes"
-    labels: 
+    labels:
       - breaking
   - title: 🚨 Removed
-    label: removed
+    labels:
+      - removed
   - title: ":tada: Major features and improvements"
     labels:
       - major-enhancement
@@ -36,7 +37,8 @@ categories:
     labels:
       - major-bug
   - title: ⚠️ Deprecated
-    label: deprecated
+    labels:
+      - deprecated
   - title: 🚀 New features and improvements
     labels:
       - enhancement
@@ -50,20 +52,25 @@ categories:
       - regression
   - title: ":construction_worker: Changes for plugin developers"
     labels:
-      - developer 
-  # Default label used by Dependabot
-  - title: 📦 Dependency updates
-    label: dependencies
+      - developer
   - title: 📝 Documentation updates
-    label: documentation
+    labels:
+      - documentation
   - title: 👻 Maintenance
-    labels: 
+    labels:
       - chore
       - internal
   - title: 🚦 Tests
-    labels: 
+    labels:
       - test
       - tests
+  - title: ✍ Other changes
+  # Default label used by Dependabot
+  - title: 📦 Dependency updates
+    labels:
+      - dependencies
+    collapse-after: 15
+
 exclude-labels:
   - reverted
   - no-changelog
@@ -82,7 +89,7 @@ replacers:
   - search: '/\[*WEBSITE-(\d+)\]*\s*-*\s*/g'
     replace: '[WEBSITE-$1](https://issues.jenkins-ci.org/browse/WEBSITE-$1) - '
   - search: '/\[*HOSTING-(\d+)\]*\s*-*\s*/g'
-    replace: '[HOSTING-$1](https://issues.jenkins-ci.org/browse/HOSTING-$1) - '  
+    replace: '[HOSTING-$1](https://issues.jenkins-ci.org/browse/HOSTING-$1) - '
   # TODO(oleg_nenashev): Find a better way to reference issues
   - search: '/\[*SECURITY-(\d+)\]*\s*-*\s*/g'
     replace: '[SECURITY-$1](https://jenkins.io/security/advisories/) - '
