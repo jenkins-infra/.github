@@ -29,6 +29,7 @@ https://github.com/jenkinsci/
   </picture>
 </a>
 <br/>
+<br/>
 
 The Jenkins community is participating in Hacktoberfest again, and we are looking for contributors and maintainers who want to join us in October!  
 [Learn more about this year's Hacktoberfest](https://www.jenkins.io/events/hacktoberfest/), and how to make your contributions towards the Jenkins project 🎉
