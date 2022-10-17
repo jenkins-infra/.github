@@ -2,7 +2,7 @@
 
 The Jenkins project takes security seriously.
 We make every possible effort to ensure users can adequately secure their automation infrastructure.
-To that end, we work with Jenkins core and plugin developers, as well as security researchers, to fix security vulnerabilities in Jenkins in a timely manner, and to improve the security of Jenkins in general.
+To that end, we want to guarantee that the infrastructure part of the project is as secure as possible, to keep the supply chain safe to build and deliver Jenkins components.
 
 ## Reporting Security Vulnerabilities
 
