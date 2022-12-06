@@ -18,7 +18,3 @@ You can learn more about this subproject on the [website](https://www.jenkins.io
 
 The GitHub organization of the main Jenkins community including repositories of the [Jenkins core](https://github.com/jenkinsci/jenkins), plugins, libraries and developer tools is here:
 https://github.com/jenkinsci/
-
-### 🗳️ Jenkins Board and Officer Elections 2022
-The 2022 Jenkins election results have been announced, there was one nominee for each role meaning those nominated have been elected!
-More info can be found in [the announcement blog post](https://www.jenkins.io/blog/2022/11/17/jenkins-election-candidates-and-results/)
