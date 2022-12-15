@@ -10,6 +10,8 @@ The Jenkins artifact repository, [repo.jenkins-ci.org](https://repo.jenkins-ci.o
 Downtime is expected to be 6 hours or less.
 More information is available on [status.jenkins.io](https://status.jenkins.io/issues/2022-12-09-artifactory-maintenance/) and in the [announcement blog post](https://www.jenkins.io/blog/2022/12/09/jfrog-maintenance/).
 
+---
+
 **Want to contribute?**
 Like for Jenkins, there is also a community behind its Infrastructure, and we invite you to join us and participate.
 Connect to the Community on social media and in [chats](https://www.jenkins.io/chat/#jenkins-infra/), [mailing lists](https://www.jenkins.io/mailing-lists/#infralists-jenkins-ci-org/) and [meetings](https://www.jenkins.io/projects/infrastructure/#meetings)
