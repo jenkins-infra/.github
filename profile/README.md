@@ -4,8 +4,6 @@ As an independent open source project, the Jenkins project maintains most of its
 
 Because we strongly believe in Open Source principles, we also apply them to our infrastructure. As such we consider ourself as an open infrastructure project where everybody is invited to learn, share, contribute.
 
-##
-
 **Want to contribute?**
 Like for Jenkins, there is also a community behind its Infrastructure, and we invite you to join us and participate.
 Connect to the Community on social media and in [chats](https://www.jenkins.io/chat/#jenkins-infra/), [mailing lists](https://www.jenkins.io/mailing-lists/#infralists-jenkins-ci-org/) and [meetings](https://www.jenkins.io/projects/infrastructure/#meetings)
