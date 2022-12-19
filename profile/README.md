@@ -4,12 +4,6 @@ As an independent open source project, the Jenkins project maintains most of its
 
 Because we strongly believe in Open Source principles, we also apply them to our infrastructure. As such we consider ourself as an open infrastructure project where everybody is invited to learn, share, contribute.
 
-## Scheduled downtime for Jenkins Artifactory and ci.jenkins.io
-
-The Jenkins artifact repository, [repo.jenkins-ci.org](https://repo.jenkins-ci.org/), will be upgraded beginning Sunday, December 18, 2022 at 9:00 AM UTC.
-Downtime is expected to be 6 hours or less.
-More information is available on [status.jenkins.io](https://status.jenkins.io/issues/2022-12-09-artifactory-maintenance/) and in the [announcement blog post](https://www.jenkins.io/blog/2022/12/09/jfrog-maintenance/).
-
 ##
 
 **Want to contribute?**
