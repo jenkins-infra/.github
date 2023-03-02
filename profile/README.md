@@ -21,7 +21,7 @@ https://github.com/jenkinsci/
 
 ### Jenkins Contributor Awards 2023
 
-The annual Jenkins award  is happening now! It recognizes contributions from individuals in the community and the progress made in the name of Jenkins.
+The annual Jenkins awards is happening now! It recognizes contributions from individuals in the community and the progress made in the name of Jenkins.
 
 Nomination categories are:
 - Most Valuable Jenkins Advocate → [Nominate Someone](https://github.com/jenkins-infra/jenkins.io/issues/6035)
