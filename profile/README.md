@@ -28,7 +28,7 @@ Nomination categories are:
 - Most Valuable Jenkins Contributor → [Nominate Someone](https://github.com/jenkins-infra/jenkins.io/issues/6033)
 - Jenkins Security MVP → [Nominate Someone](https://github.com/jenkins-infra/jenkins.io/issues/6034)
 
-Award timeline:
+Awards timeline:
 - Nominations close: Friday, March 3
 - Voting opens: Wednesday, March 8
 - Voting closes: Tuesday, March 28
