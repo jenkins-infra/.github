@@ -18,6 +18,7 @@ You can learn more about this subproject on the [website](https://www.jenkins.io
 
 The GitHub organization of the main Jenkins community including repositories of the [Jenkins core](https://github.com/jenkinsci/jenkins), plugins, libraries and developer tools is here:
 https://github.com/jenkinsci/
+
 ### Jenkins Contributor Awards 2023
 
 The annual Jenkins award  is happening now! It recognizes contributions from individuals in the community and the progress made in the name of Jenkins.
