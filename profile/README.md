@@ -24,7 +24,7 @@ https://github.com/jenkinsci/
 The annual Jenkins awards are happening now! It recognizes contributions from individuals in the community and the progress made in the name of Jenkins.
 Vote now by filling out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLScUL4GAL-6wOjHKbT86ptKSStnglKM9_MKTQXzjgwimCDEtGw/viewform).
 
-Candidatess are:
+Nominated candidates are:
 - Most Valuable Jenkins Advocate → [Alex Earl](https://github.com/slide), [Alexander Brandes](https://github.com/NotMyFault), [Bruno Verachten](https://github.com/gounthar), [Jean-Marc Meessen](https://github.com/jmMeessen), [Kris Stern](https://github.com/krisstern), and [Mark Waite](https://github.com/MarkEWaite)
 [Voting is open](https://github.com/jenkins-infra/jenkins.io/issues/6035)
 - Most Valuable Jenkins Contributor → [Alexander Brandes](https://github.com/NotMyFault), [Damien Duportal](https://github.com/dduportal), and [Jan Faracik](https://github.com/janfaracik)
