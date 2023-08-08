@@ -12,7 +12,7 @@ See the Contributing guidelines [on jenkins.io](https://jenkins.io/projects/infr
 ## Contacts
 
 * Mailing list: [jenkins-infra@googlegroups.com](https://groups.google.com/g/jenkins-infra)
-* IRC: [#jenkins-infra on Libera.Chat](https://jenkins.io/chat/#jenkins-infra)
+* Chat: [#jenkins-infra:matrix.org](https://jenkins.io/chat/#jenkins-infra)
 * Bugtracker: [Helpdesk](https://github.com/jenkins-infra/helpdesk/) repository on the jenkins-infra organization
 
 ## Newcomers
