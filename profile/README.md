@@ -14,7 +14,7 @@ See also Jenkins [Project Governance and Values](https://www.jenkins.io/project/
 **About this GitHub org**
 This is the main GitHub organization of the Jenkins Infrastructure, with [its help desk dedicated to infrastructure issues](https://github.com/jenkins-infra/helpdesk) and [status website](https://status.jenkins.io/)
 
-You can learn more about this subproject on the [website](https://www.jenkins.io/projects/infrastructure/).
+You can learn more about this subproject on the [website](https://www.jenkins.io/projects/infrastructure/). You're encouraged to submit pull requests, propose features and discuss issues!
 
 The GitHub organization of the main Jenkins community including repositories of the [Jenkins core](https://github.com/jenkinsci/jenkins), plugins, libraries and developer tools is here:
 https://github.com/jenkinsci/
