@@ -1,6 +1,6 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Insfrastructure issue
+  - name: Infrastructure issue
     url: https://github.com/jenkins-infra/helpdesk/issues
     about: Check if there isn't already an issue open in the Jenkins Infrastructure Help Desk first
   - name: Community forum
