@@ -1,3 +1,5 @@
+## Jenkins Infrastructure
+
 As an independent open source project, the Jenkins project maintains most of its own infrastructure including services which help to keep the project running. The kind of things that fall into "infrastructure" can span from operating virtual machines, containers, configuring network or developing and maintaining project-specific applications to make the development of Jenkins core and plugins more efficient.
 
 Because we strongly believe in Open Source principles, we also apply them to our infrastructure. As such we consider ourself as an open infrastructure project where everybody is invited to learn, share, contribute.
