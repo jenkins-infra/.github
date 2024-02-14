@@ -18,3 +18,19 @@ You can learn more about this subproject on the [website](https://www.jenkins.io
 
 The GitHub organization of the main Jenkins community including repositories of the [Jenkins core](https://github.com/jenkinsci/jenkins), plugins, libraries and developer tools is here:
 https://github.com/jenkinsci/
+
+### Jenkins Contributor Awards 2024
+
+The annual Jenkins awards is happening now! It recognizes contributions from individuals in the community and the progress made in the name of Jenkins.
+
+Nomination categories are:
+- Most Valuable Jenkins Advocate → [Nominate Someone](https://github.com/jenkins-infra/jenkins.io/issues/7030)
+- Most Valuable Jenkins Contributor → [Nominate Someone](https://github.com/jenkins-infra/jenkins.io/issues/7028)
+- Jenkins Security MVP → [Nominate Someone](https://github.com/jenkins-infra/jenkins.io/issues/7029)
+
+Awards timeline:
+- Nominations close: February 19, 2024
+- Voting opens: February 22
+- Winners announced at cdCon 2024 on April 16 - 18, 2024
+
+See the [announcement blogpost](https://www.jenkins.io/blog/2024/01/29/nominate-someone-2024-jenkins-contributor-awards/) for more details for voting and nominate candidates.
