@@ -40,12 +40,6 @@ Nominated candidates are:
   - [Alvaro Muñoz](https://github.com/pwntester)
   - [Yaniv Nizry](https://github.com/Yaniv-git)
 
-**📨 Vote now by filling out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLScUHeNX-4H5jboVo6nRxo0-JtMiA8pLvMq2VkNYceax4frHPQ/viewform)!**
-
-Awards timeline:
-- Nominations close: February 19, 2024
-- Voting opens: February 22
-- Voting closes: March 22
-- Winners announced at cdCon 2024 on April 16 - 18, 2024
+**Award winners will be announced at [cdCon in Seattle, April 16-18 2024](https://cd.foundation/cdcon-2024/)**
 
 See the [announcement blogpost](https://www.jenkins.io/blog/2024/01/29/nominate-someone-2024-jenkins-contributor-awards/) for more details.
