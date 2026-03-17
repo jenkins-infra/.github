@@ -1,4 +1,4 @@
-# Security Policy
+ÿ# Security Policy
 
 The Jenkins project takes security seriously.
 We make every possible effort to ensure users can adequately secure their automation infrastructure.
