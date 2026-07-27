@@ -23,6 +23,13 @@ version-resolver:
 
 # Emoji reference: https://gitmoji.carloscuesta.me/
 categories:
+  - type: "pre-exclude"
+    when:
+      labels: 
+        - reverted
+        - no-changelog
+        - skip-changelog
+        - invalid
   - title: ":boom: Breaking changes"
     when:
       labels:
@@ -82,12 +89,6 @@ categories:
       labels:
         - dependencies
     collapse-after: 15
-
-exclude-labels:
-  - reverted
-  - no-changelog
-  - skip-changelog
-  - invalid
 
 template: |
   <!-- Optional: add a release summary here -->
