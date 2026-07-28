@@ -2,25 +2,6 @@
 name-template: '$RESOLVED_VERSION 🌈'
 tag-template: '$RESOLVED_VERSION'
 
-version-resolver:
-  major:
-    labels:
-      - 'major'
-  minor:
-    labels:
-      - 'minor'
-      - 'feature'
-      - 'enhancement'
-  patch:
-    labels:
-      - 'patch'
-      - 'fix'
-      - 'bugfix'
-      - 'bug'
-      - 'chore'
-      - 'dependencies'
-  default: patch
-
 # Emoji reference: https://gitmoji.carloscuesta.me/
 categories:
   - type: "pre-exclude"
@@ -30,6 +11,28 @@ categories:
         - no-changelog
         - skip-changelog
         - invalid
+  - type: "version-resolver"
+    semver-increment: "major"
+    when:
+      labels: 
+        - "major"
+  - type: "version-resolver"
+    semver-increment: "minor"
+    when:
+      labels:
+        - 'minor'
+        - 'feature'
+        - 'enhancement'
+  - type: "version-resolver"
+    semver-increment: "patch"
+    when:
+      labels:
+        - 'patch'
+        - 'fix'
+        - 'bugfix'
+        - 'bug'
+        - 'chore'
+        - 'dependencies'
   - title: ":boom: Breaking changes"
     when:
       labels:
